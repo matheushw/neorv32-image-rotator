@@ -1,0 +1,16 @@
+Fitter Status : Failed - Sat Nov 26 22:45:22 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : ProjetoRotacao
+Top-level Entity Name : neorv32_test_setup_bootloader
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 152,414 / 114,480 ( 133 % )
+    Total combinational functions : 86,532 / 114,480 ( 76 % )
+    Dedicated logic registers : 67,320 / 114,480 ( 59 % )
+Total registers : 67320
+Total pins : 12 / 529 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 3,638,272 / 3,981,312 ( 91 % )
+Embedded Multiplier 9-bit elements : 70 / 532 ( 13 % )
+Total PLLs : 0 / 4 ( 0 % )

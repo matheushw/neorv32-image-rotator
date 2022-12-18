@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/matheus/projeto/simulation/modelsim
+Emaxthroughput
+Z1 w1668974505
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+R0
+Z5 8/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/maxThroughput.vhd
+Z6 F/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/maxThroughput.vhd
+l0
+L5 1
+VQWSLB50<Q4kzSJ9C>b7G=2
+!s100 4JEDe8lBjc8<9HX<6WlJ61
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1668974524
+!i10b 1
+Z9 !s108 1668974524.000000
+Z10 !s90 -reportprogress|300|-work|work|/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/maxThroughput.vhd|
+Z11 !s107 /home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/maxThroughput.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 NoCoverage 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z14 DEx4 work 13 maxthroughput 0 22 QWSLB50<Q4kzSJ9C>b7G=2
+!i122 3
+l24
+L23 92
+VaR3mlWFiO4K7liGKHKGnB3
+!s100 a8QNRM=hZ@]8N<6TC8C0i2
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etestbanch
+Z15 w1668974561
+Z16 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R2
+R3
+R4
+!i122 7
+R0
+Z17 8/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/testbanch.vhd
+Z18 F/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/testbanch.vhd
+l0
+L9 1
+VFn_ZohEAR9b^@Y^MLadXa2
+!s100 f>zXniQU@BPWY[1HdaaB@3
+R7
+33
+Z19 !s110 1668974570
+!i10b 1
+Z20 !s108 1668974570.000000
+Z21 !s90 -reportprogress|300|-work|work|/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/testbanch.vhd|
+Z22 !s107 /home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/testbanch.vhd|
+!i113 1
+R12
+R13
+Asim
+R14
+R16
+R2
+R3
+R4
+Z23 DEx4 work 9 testbanch 0 22 Fn_ZohEAR9b^@Y^MLadXa2
+!i122 7
+l36
+Z24 L12 223
+Z25 V34AG2W@S[`M996d42meh@3
+Z26 !s100 n0Am`gcXbFO4MSQ2jgLFj3
+R7
+33
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13

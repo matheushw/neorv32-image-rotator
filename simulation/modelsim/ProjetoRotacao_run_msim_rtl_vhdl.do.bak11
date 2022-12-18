@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {/home/matheus/projeto/neorv32-main/neorv32-main/rtl/core/maxThroughput.vhd}
+
